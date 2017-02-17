@@ -1,4 +1,9 @@
-## Selamat datang di Halaman GitHub
+## Selamat datang di Halaman GitHub IPrakom
+
+Media belajar untuk praktik penggunaan **git** pada github.
+
+
+## How To Use GitHub Formatter and GitHub Editor
 
 You can use the [editor on GitHub](https://github.com/iprakom/kulgram-git/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

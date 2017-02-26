@@ -5,7 +5,7 @@ Media belajar untuk praktik penggunaan **git** pada github.
 Silahkan menuju link berikut : [https://iprakom.github.io/kulgram-git/](https://iprakom.github.io/kulgram-git/) untuk melihat **Live View** repo ini.
 
 
-## How To Use GitHub Formatter and GitHub Editor
+## Bagaiamna Cara Menggunakan Formatter dan Editor Github
 
 You can use the [editor on GitHub](https://github.com/iprakom/kulgram-git/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

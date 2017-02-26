@@ -2,6 +2,8 @@
 
 Media belajar untuk praktik penggunaan **git** pada github.
 
+Silahkan menuju link berikut : [https://iprakom.github.io/kulgram-git/](https://iprakom.github.io/kulgram-git/) untuk melihat **Live View** repo ini.
+
 
 ## How To Use GitHub Formatter and GitHub Editor
 

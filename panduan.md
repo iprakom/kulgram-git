@@ -11,9 +11,14 @@ isikan username dan password untuk akun di github.com
 ### buat nama panggilan sebagai nama file, diikuti dengan md, contoh: tamami.md, isinya nama dan instansi, contoh :
 
 ```
-Nama : Tamami
-Instansi : BPPKAD Kab. Brebes
+---
+layout: page
+nama: Tamami
+instansi: BPPKAD Kab. Brebes
+---
 ```
+
+Identifier seperti `layout`,`nama`, dan `instansi` huruf kecil semua.
 
 ### periksa bahwa perubahannya telah dideteksi oleh git dengan perintah :
 
